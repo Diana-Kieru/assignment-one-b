@@ -13,3 +13,6 @@ A simple web page implementation that displays an image linking to a home page, 
 - home.html - Simple welcome page
 - image2.jpg - Image file
 
+## Live Demo
+[View the live project here](https://diana-kieru.github.io/assignment-one-b/)
+
